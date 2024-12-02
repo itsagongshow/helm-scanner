@@ -1,0 +1,5 @@
+nginx:
+  image: "nginx:1.19.0"  # Known to have vulnerabilities
+
+redis:
+  image: "redis:5.0.10"  # Known to have vulnerabilities

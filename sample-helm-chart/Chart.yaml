@@ -1,0 +1,6 @@
+apiVersion: v2
+name: sample-helm-chart
+description: A sample Helm chart for testing vulnerability scanning
+type: application
+version: 0.1.0
+appVersion: 1.0.0
